@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Projects\RazorGenerator" t="IncludeFlat">
+      <e p="CommonAssemblyInfo.cs" t="Include" />
+      <e p="Local.testsettings" t="Include" />
+      <e p="MvcViewsTests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MvcViewsTests.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="TestViews.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PowerShell" t="Include" />
+      <e p="RazorGenerator.Mvc" t="IncludeRecursive">
+        <e p="AssemblyExtensions.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CompositePrecompiledMvcEngine.cs" t="Include" />
+        <e p="DefaultViewPageActivator.cs" t="Include" />
+        <e p="NuGet" t="Include">
+          <e p="Content" t="Include">
+            <e p="App_Start" t="Include">
+              <e p="RazorGeneratorMvcStart.cs.pp" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="PrecompiledMvcEngine.cs" t="Include" />
+        <e p="PrecompiledMvcView.cs" t="Include" />
+        <e p="PrecompiledViewAssembly.cs" t="Include" />
+        <e p="PrecompiledViewLocationCache.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="RazorGenerator.Mvc.csproj" t="IncludeRecursive" />
+        <e p="RazorGenerator.Mvc.nuspec" t="Include" />
+      </e>
+      <e p="RazorGenerator.Powershell\init.ps1" t="Include" />
+      <e p="RazorGenerator.Powershell\RazorGenerator.psd1" t="Include" />
+      <e p="RazorGenerator.Powershell\RazorGenerator.psm1" t="Include" />
+      <e p="RazorGenerator.Runtime.sln" t="IncludeFlat" />
+      <e p="RazorGenerator.Runtime.vsmdi" t="Include" />
+      <e p="RazorGenerator.Templating" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="NuGet" t="Include">
+          <e p="Content" t="Include">
+            <e p="SampleTemplate.cshtml" t="Include" />
+          </e>
+          <e p="Tools" t="Include">
+            <e p="install.ps1" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="RazorGenerator.Templating.csproj" t="IncludeRecursive" />
+        <e p="RazorGenerator.Templating.nuspec" t="Include" />
+        <e p="RazorTemplateBase.cs" t="Include" />
+      </e>
+      <e p="RazorGenerator.Testing" t="IncludeRecursive">
+        <e p="ActionUrlNode.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HttpContextBuilder.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="RazorGenerator.Testing.csproj" t="IncludeRecursive" />
+        <e p="RazorGenerator.Testing.nuspec" t="Include" />
+        <e p="ViewNode.cs" t="Include" />
+        <e p="WebViewPageExtensions.cs" t="Include" />
+      </e>
+      <e p="Samples" t="Include">
+        <e p="mvc" t="Include">
+          <e p="Solution Items" t="Include" />
+        </e>
+        <e p="MvcSample" t="IncludeRecursive">
+          <e p="App_Data" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Controllers" t="Include">
+            <e p="AccountController.cs" t="Include" />
+            <e p="HomeController.cs" t="Include" />
+          </e>
+          <e p="Global.asax" t="Include" />
+          <e p="Global.asax.cs" t="Include" />
+          <e p="MvcSample.csproj" t="IncludeRecursive" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="packages.config" t="Include" />
+          <e p="PreApplicationStartCode.cs" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+          <e p="Views" t="Include">
+            <e p="Helpers" t="Include">
+              <e p="WebAppHelpers.cshtml" t="Include" />
+              <e p="WebAppHelpers.generated.cs" t="Include" />
+            </e>
+            <e p="Home" t="Include">
+              <e p="HelperDemo.cshtml" t="Include" />
+              <e p="InAppPrecompiled.cshtml" t="Include" />
+              <e p="InAppPrecompiled.generated.cs" t="Include" />
+              <e p="Index.cshtml" t="Include" />
+            </e>
+            <e p="Shared" t="Include">
+              <e p="_ViewTypes.cshtml" t="Include" />
+            </e>
+            <e p="Web.config" t="Include" />
+          </e>
+          <e p="Web.config" t="Include" />
+          <e p="Web.Debug.config" t="Include" />
+          <e p="Web.Release.config" t="Include" />
+        </e>
+        <e p="PrecompiledMvcLibrary" t="IncludeRecursive">
+          <e p="Areas" t="Include">
+            <e p="MyPluggableArea" t="Include">
+              <e p="Controllers" t="Include">
+                <e p="FooController.cs" t="Include" />
+              </e>
+              <e p="MyAreaAreaRegistration.cs" t="Include" />
+              <e p="Views" t="Include">
+                <e p="Foo" t="Include">
+                  <e p="Index.cshtml" t="Include" />
+                  <e p="Index.generated.cs" t="Include" />
+                </e>
+                <e p="Web.config" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Helpers" t="Include">
+            <e p="ListHelper.cshtml" t="Include" />
+            <e p="ListHelper.generated.cs" t="Include" />
+          </e>
+          <e p="Models" t="Include">
+            <e p="AccountModels.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="packages.config" t="Include" />
+          <e p="PreApplicationStartCode.cs" t="Include" />
+          <e p="PrecompiledMvcLibrary.csproj" t="IncludeRecursive" />
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+          <e p="Views" t="Include">
+            <e p="_ViewStart.cs" t="Include" />
+            <e p="_ViewStart.cshtml" t="Include" />
+            <e p="Account" t="Include">
+              <e p="ChangePassword.cs" t="Include" />
+              <e p="ChangePassword.cshtml" t="Include" />
+              <e p="ChangePasswordSuccess.cs" t="Include" />
+              <e p="ChangePasswordSuccess.cshtml" t="Include" />
+              <e p="LogOn.cs" t="Include" />
+              <e p="LogOn.cshtml" t="Include" />
+              <e p="Register.cs" t="Include" />
+              <e p="Register.cshtml" t="Include" />
+            </e>
+            <e p="Home" t="Include">
+              <e p="About.cs" t="Include" />
+              <e p="About.cshtml" t="Include" />
+              <e p="ExternalPrecompiled.cshtml" t="Include" />
+              <e p="ExternalPrecompiled.generated.cs" t="Include" />
+              <e p="MockHttpContext.cshtml" t="Include" />
+              <e p="MockHttpContext.generated.cs" t="Include" />
+              <e p="UsingRoutes.cshtml" t="Include" />
+              <e p="UsingRoutes.generated.cs" t="Include" />
+              <e p="ViewData.Model.cshtml" t="Include" />
+              <e p="ViewData.Model.generated.cs" t="Include" />
+            </e>
+            <e p="Shared" t="Include">
+              <e p="_Layout.cs" t="Include" />
+              <e p="_Layout.cshtml" t="Include" />
+              <e p="_LogOnPartial.cs" t="Include" />
+              <e p="_LogOnPartial.cshtml" t="Include" />
+              <e p="Error.cs" t="Include" />
+              <e p="Error.cshtml" t="Include" />
+              <e p="Helper.cs" t="Include" />
+              <e p="Helper.cshtml" t="Include" />
+            </e>
+            <e p="Web.config" t="Include" />
+          </e>
+          <e p="Web.config" t="Include" />
+        </e>
+        <e p="PrecompiledWebPagesLibrary" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Images" t="Include">
+            <e p="Cake.jpg" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="packages.config" t="Include" />
+          <e p="PreApplicationStartCode.cs" t="Include" />
+          <e p="PrecompiledWebPagesLibrary.csproj" t="IncludeRecursive" />
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+          <e p="WebPagesHelperSample.cs" t="Include" />
+          <e p="WebPagesHelperSample.cshtml" t="Include" />
+          <e p="WebPagesSample.cs" t="Include" />
+          <e p="WebPagesSample.cshtml" t="Include" />
+        </e>
+        <e p="TemplateSample" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="CustomTemplateBase.cs" t="Include" />
+          <e p="HelperTestTemplate.cshtml" t="Include" />
+          <e p="HelperTestTemplate.generated.cs" t="Include" />
+          <e p="HelperTestTemplateSupport.cs" t="Include" />
+          <e p="ItemTemplate.cshtml" t="Include" />
+          <e p="ItemTemplate.generated.cs" t="Include" />
+          <e p="ListTemplate.cshtml" t="Include" />
+          <e p="ListTemplate.generated.cs" t="Include" />
+          <e p="MailTemplate.cshtml" t="Include" />
+          <e p="MailTemplate.generated.cs" t="Include" />
+          <e p="MyLayout.cshtml" t="Include" />
+          <e p="MyLayout.generated.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="PreProcessedTemplate.cshtml" t="Include" />
+          <e p="PreProcessedTemplate.generated.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+          <e p="TemplateSample.csproj" t="IncludeRecursive" />
+          <e p="TestResult.cs" t="Include" />
+        </e>
+        <e p="webpages" t="Include" />
+        <e p="WebPagesSample" t="IncludeRecursive">
+          <e p="bin" t="Include">
+            <e p="Microsoft.Web.Infrastructure.dll" t="Include" />
+            <e p="PrecompiledWebPagesHelper.dll" t="Include" />
+            <e p="PrecompiledWebPagesHelper.pdb" t="Include" />
+            <e p="System.Web.Razor.dll" t="Include" />
+            <e p="System.Web.WebPages.Deployment.dll" t="Include" />
+            <e p="System.Web.WebPages.dll" t="Include" />
+            <e p="System.Web.WebPages.Razor.dll" t="Include" />
+          </e>
+          <e p="Default.cshtml" t="Include" />
+          <e p="Web.config" t="Include" />
+        </e>
+      </e>
+      <e p="TraceAndTestImpact.testsettings" t="Include" />
+    </e>
+    <e p="C:\Users\tomasz.kolosowski\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_RazorGenerator.Runtime.-404582243.00" t="ExcludeRecursive" />
+  </component>
+</project>
